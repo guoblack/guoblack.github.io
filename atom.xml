@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>智能感知与特种机器人技术重点实验室</title>
+  
+  <subtitle>仿生机器人与智能测控重庆高校创新研究群体</subtitle>
+  <link href="https://guoblack.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://guoblack.github.io/"/>
+  <updated>2022-04-06T11:37:18.502Z</updated>
+  <id>https://guoblack.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>团队介绍</title>
+    <link href="https://guoblack.github.io/2022/04/06/hello-world/"/>
+    <id>https://guoblack.github.io/2022/04/06/hello-world/</id>
+    <published>2022-04-06T06:52:48.761Z</published>
+    <updated>2022-04-06T11:37:18.502Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
